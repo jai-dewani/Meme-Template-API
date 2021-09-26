@@ -8,10 +8,8 @@ data = json.load(open('meme.json'))
 
 @app.route("/")
 def index():
-    return "Hello"
+    return "Check /all at the moment"
 
 @app.route("/all")
 def meme():
     return data
-
-app.run()
