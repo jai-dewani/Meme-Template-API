@@ -1,8 +1,8 @@
 # Meme Template API
 
-This is a API created for my [memeify](https://github.com/jai-dewani/memeify) project which needs an API t get a list of images that are meme template.
+This is a API created for my [memeify](https://github.com/jai-dewani/memeify) project which needs an API t get a list of images that are meme template.  
 
-| It is currently in development phase, not hosted anywhere. Will be soon 🤞
+> It is currently in development phase, not hosted anywhere. Will update this when this changes 🤞
 
 ## Contribute 
 
