@@ -2,7 +2,8 @@
 
 This is a API created for my [memeify](https://github.com/jai-dewani/memeify) project which needs an API t get a list of images that are meme template with meta data about the meme. Feel free to use it for your personal projects, I would love to see what all different ideas people can come up with this projects! 
 
-> It is currently in development phase, not hosted anywhere. Will update this when this changes 🤞
+> It is currently in development phase, not hosted anywhere. Will update this when this changes 🤞  
+UPDATE: It has been deployed to Deta, check it out here [https://memetemplate-api.deta.dev/](https://memetemplate-api.deta.dev/)
 
 ## Contribute 
 
